@@ -1,0 +1,4 @@
+body { background: #fff0f5; font-family: 'Georgia'; color: #222; }
+header { background: #ff69b4; color: #fff; padding: 2rem; }
+.project img { border-radius: 8px; border: 4px double #ff69b4; }
+footer { background: #ff69b4; color: white; }
